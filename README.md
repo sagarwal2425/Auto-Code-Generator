@@ -8,7 +8,9 @@ The entire process has been automated starting from reading data from excel, seg
 
 # Technologies/Libraries used:
 Microsoft Excel
+
 Java
+
 Apache POI
 
 # Model implemented:
