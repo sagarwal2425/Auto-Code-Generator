@@ -6,10 +6,10 @@ This is a resuasable plug and play program that would help create POM class file
 
 The entire process has been automated starting from reading data from excel, segregating methods based on elements and creating class file as an output. This output can then be used by different companies and projects to reduce the time required for manual creation of methods and identifiers of elements in Page Object Model.
 
-Technologies/Libraries used:
+# Technologies/Libraries used:
 Microsoft Excel
 Java
 Apache POI
 
-Model implemented:
+# Model implemented:
 Page Object Model
