@@ -1,6 +1,6 @@
 # Auto Code Generator
 
-The goal of this project is to build a program that will help reduce human effort that is required in building Page Object Model framework in Selenium. This programs takes in input from Excel file and convert all the indicators in Excel into respective methods in class file.
+The goal of this project is to build a program that will help reduce human effort that is required in building Page Object Model framework in Selenium. Input for this program takes in Excel file and convert all the indicators in Excel into respective methods in class file.
 
 This is a resuasable plug and play program that would help create POM class files in any project with minimal tweaks.
 
