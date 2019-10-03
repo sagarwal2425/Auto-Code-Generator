@@ -6,7 +6,7 @@ import org.apache.poi.xssf.usermodel.*;
 
 public class DataReader {
 	
-	public static final String EXCELFILELOCATION = "C:\\Users\\shubh\\Google Drive\\Projects\\AutoCode Generator\\AutoCodeGenerator Excel.xlsx";
+	public static final String EXCELFILELOCATION = "C:\\Users\\shubh\\git\\Auto-Code-Generator\\autocodegenerator\\src\\pom\\Auto-Code-Generator Excel.xlsx";
 	private static FileInputStream fis;
 	private static XSSFWorkbook workbook;
 	private static XSSFSheet sheet;
